@@ -1,0 +1,62 @@
+.heading{
+    text-align: center;
+   
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+border-radius: 16px;
+color: aliceblue;
+background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../images/Banner Image.png');
+;
+margin: 50px 500px;
+
+
+}
+.happy{
+    font-size: 30px;
+    padding: 140px 0px 0px 0px;
+    font-weight: 400;
+}
+.para{
+    font-family: Merriweather;
+    font-size: 30px;
+    font-style: normal;
+font-weight: 900;
+padding: 0px 344px 177px 344px;
+}
+.para2{
+    text-align: center;
+    
+}
+.off{
+    color: #F00;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.our{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.all{
+    color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.img{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
